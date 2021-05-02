@@ -68,8 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-1. Создаем файл .gitignore в корне проекта и вписываем в него .idea/
-2. Удаляем все проиндексированные файлы: git rm -r -f --cached .
-3. Запускаем индексацию заново: git add .
-4. Добавляем коммит и пушим
